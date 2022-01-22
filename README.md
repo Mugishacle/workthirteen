@@ -4,23 +4,22 @@ Build the back end for an e-commerce site. Take a working Express.js API and con
 
 App Demo
 Create Schema and Seed data
-[demo 6](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
+
 
 GET routes to return all categories, all products
-[demo 1](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
+
 
 
 GET routes to return a single category, a single product, and a single tag
-[demo 2](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
+
 
 POST, PUT, and DELETE routes for categories
-[demo 3](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
+
 POST, PUT, and DELETE routes for Tags
-[demo 4](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
+
 
 POST, PUT, and DELETE routes for products
 
-[demo 5](https://user-images.githubusercontent.com/88864267/142764606-f085ef04-6ea7-47d5-8a53-dfcc88fd24e2.gif)
 User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
