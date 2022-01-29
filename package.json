@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/orm-e-commerce.git"
+    "url": "git+https://github.com/Mugishacle/orm-e-commerce.git"
   },
   "author": "Priya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/orm-e-commerce/issues"
+    "url": "https://github.com/Mugishacle/orm-e-commerce/issues"
   },
-  "homepage": "https://github.com/priyaravi23/orm-e-commerce#readme",
+  "homepage": "https://github.com/Mugishacle/orm-e-commerce#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
